@@ -1,0 +1,10 @@
+this is a fancy new line 1
+line 2
+line 3
+line 4
+line 5 on the master branch
+<<<<<<< HEAD
+last line that will cause a conflict
+=======
+last line on master
+>>>>>>> master
