@@ -3,3 +3,4 @@ line 2
 line 3
 line 4
 line 5 on the master branch
+last line that will cause a conflict
