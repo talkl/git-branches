@@ -5,3 +5,4 @@ line 4
 line 5 on the master branch
 last line that will cause a conflict. now its not.
 last line - 7
+feature2 line only
